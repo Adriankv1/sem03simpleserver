@@ -9,6 +9,7 @@ import (
 	"sync"
 
 	"github.com/Adriankv1/is105sem03/mycrypt"
+	//"github.com/Adriankv1/minyr/yr"
 )
 
 func CelsiusToFarenheit(celsius float64) float64 {
